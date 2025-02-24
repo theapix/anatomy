@@ -1,5 +1,7 @@
 # Anatomy by theAPIx
 
+This project allow you to explore the anatomy of the API in an interactive way. [Live Demo](https://theapix.github.io/anatomy/)
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
